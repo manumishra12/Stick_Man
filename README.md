@@ -1,16 +1,29 @@
 # Stick Man
 ``` Stick Man made using HTML, CSS, and Javascript```
 
-<div align="left" >
-  <h2> <img src = "https://github.com/manumishra12/Rolex-Website/blob/main/Rolex%20Watch%20.gif" width = 800px height=450px> </h2>
-</div>
-
+<br>
+<br>
 
 <p>
-In this game, you control a stick figure character and use the cursor to create sticks that act as a bridge to cross over gaps and obstacles.
-
-To create a stick, you need to click and hold the cursor. The longer you hold it, the longer the stick will be. You need to release the cursor at the right time to make sure the stick is long enough to cross the gap, but not so long that it falls short or hits an obstacle.
+<i> Video Demo of the Stick Man Game </i>
 </p>
+
+<div align="left" >
+  <h2> <img src = "https://github.com/manumishra12/Stick_Man/blob/main/Stick%20Man%20.gif" width = 800px height=450px> </h2>
+</div>
+
+<br>
+
+<h2> Instructions </h2>
+<ul>
+  <li>Control a stick figure character</li>
+  <li>Use the cursor to create sticks that act as a bridge</li>
+  <li>Click and hold the cursor to create a stick</li>
+  <li>The longer you hold the cursor, the longer the stick will be</li>
+  <li>Release the cursor at the right time to ensure the stick is long enough to cross the gap</li>
+  <li>But not so long that it falls short or hits an obstacle</li>
+</ul>
+
 
 
 
