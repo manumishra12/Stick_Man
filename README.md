@@ -7,7 +7,9 @@
 
 
 <p>
-The brand is known for its use of high-quality materials, such as precious metals, leather, and sapphire crystal, as well as its innovative technology, such as its proprietary Oyster Perpetual movement and its use of waterproof cases. Rolex is also known for its timeless designs, which often feature the brand's signature crown logo and the "Rolex" name etched on the dial. With its combination of style, quality, and precision, Rolex watches are highly sought after by collectors and luxury-watch enthusiasts around the world.
+In this game, you control a stick figure character and use the cursor to create sticks that act as a bridge to cross over gaps and obstacles.
+
+To create a stick, you need to click and hold the cursor. The longer you hold it, the longer the stick will be. You need to release the cursor at the right time to make sure the stick is long enough to cross the gap, but not so long that it falls short or hits an obstacle.
 </p>
 
 
@@ -19,7 +21,7 @@ The brand is known for its use of high-quality materials, such as precious metal
 ``` Credits: Manu Mishra```
 
 <div float="right" width="400">
-  <img align="left" height="450" width="800" src="Thumbnail.png">
+  <img align="left" height="450" width="800" src="Thumbnail.jpg">
 </div>
 
 <br>
